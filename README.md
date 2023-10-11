@@ -1,1 +1,2 @@
-# google-tink-examples
+## References
+1. Tink GitHub Repository. https://github.com/google/tink.
